@@ -1,0 +1,15 @@
+<div class="well">
+  <input
+    type="text"
+    class="form-control"
+    [(ngModel)]="username"
+    (input)="onInputChange($event)" />
+  <hr />
+  <label for="input#username">Username: </label>
+  <input type="text" id="username" value="{{ username }}" disabled />
+  <hr />
+  <button
+    class="btn btn-info"
+    (click)="onButtonClick()"
+    [disabled]="!enableButton">Reset</button>
+</div>
