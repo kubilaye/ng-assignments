@@ -1,0 +1,12 @@
+<button
+  class="btn btn-success"
+  (click)="onButtonClick()">
+  Display Details</button>
+<hr />
+<p *ngIf="buttonClicked">Welcome to uDemy</p>
+<hr />
+<p
+  *ngFor="let click of clickLogs"
+  [ngClass]="{whiteText: click >= 5}"
+  [ngStyle]="{'background-color': click < 5 ? 'inherit' : 'blue'}">
+  Clicked {{ click }} times.</p>
