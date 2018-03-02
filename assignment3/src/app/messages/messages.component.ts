@@ -9,19 +9,16 @@ export class MessagesComponent implements OnInit {
 
   buttonClicked = false;
   clickCount = 0;
-  clickLogs = [ 0 ];
+  clickLogs = [];
 
-  constructor() {
-    this.clickCount = 0;
-    this.clickLogs = [];
-  }
+  constructor() { }
 
   ngOnInit() {
   }
 
   onButtonClick() {
     this.clickCount++;
-    this.clickLogs.push(this.clickCount);
+    this.clickLogs.push(new Date().toString());
     this.buttonClicked = !this.buttonClicked;
   }
 

@@ -6,7 +6,7 @@
 <p *ngIf="buttonClicked">Welcome to uDemy</p>
 <hr />
 <p
-  *ngFor="let click of clickLogs"
-  [ngClass]="{whiteText: click >= 5}"
-  [ngStyle]="{'background-color': click < 5 ? 'inherit' : 'blue'}">
-  Clicked {{ click }} times.</p>
+  *ngFor="let click of clickLogs; let i = index"
+  [ngClass]="{whiteText: i >= 4}"
+  [ngStyle]="{'background-color': i < 4 ? 'inherit' : 'blue'}">
+  Clicked at {{ click }}.</p>
