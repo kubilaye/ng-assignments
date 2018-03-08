@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'app';
   onlyOdd = false;
+  value = 10; // ngSwitch
 
   numbers = [1, 2, 3, 4, 5];
   oddNumbers = [1, 3, 5];

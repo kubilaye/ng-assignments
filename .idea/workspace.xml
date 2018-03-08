@@ -4,7 +4,7 @@
     <list default="true" id="26ec6101-a5b7-4734-aa68-afcac65367d6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/assignment-odd/src/app/app.component.html" afterPath="$PROJECT_DIR$/assignment-odd/src/app/app.component.html" />
-      <change beforePath="$PROJECT_DIR$/assignment-odd/src/app/app.module.ts" afterPath="$PROJECT_DIR$/assignment-odd/src/app/app.module.ts" />
+      <change beforePath="$PROJECT_DIR$/assignment-odd/src/app/app.component.ts" afterPath="$PROJECT_DIR$/assignment-odd/src/app/app.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,18 +21,19 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="220">
+              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="541">
+              <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+              <caret line="32" column="43" lean-forward="false" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -48,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
@@ -113,13 +114,13 @@
         <option value="$PROJECT_DIR$/assignment4/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/assignment4/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/assignment-odd/.angular-cli.json" />
-        <option value="$PROJECT_DIR$/assignment-odd/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/assignment-odd/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/assignment-odd/src/app/basic-highlight/basic-highlight.directive.ts" />
         <option value="$PROJECT_DIR$/assignment-odd/src/app/better-highlight/better-highlight.directive.ts" />
         <option value="$PROJECT_DIR$/assignment-odd/src/app/unless/unless.directive.ts" />
-        <option value="$PROJECT_DIR$/assignment-odd/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/assignment-odd/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/assignment-odd/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/assignment-odd/src/app/app.component.html" />
       </list>
     </option>
   </component>
@@ -254,12 +255,12 @@
       <workItem from="1520420062746" duration="7368000" />
       <workItem from="1520430785566" duration="3000" />
       <workItem from="1520430942693" duration="6000" />
-      <workItem from="1520510651202" duration="4337000" />
+      <workItem from="1520510651202" duration="4713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16786000" />
+    <option name="totallyTimeSpent" value="17162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="944" extended-state="6" />
@@ -594,14 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/basic-highlight/basic-highlight.directive.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -626,18 +619,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <caret line="32" column="43" lean-forward="false" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
           <folding />
         </state>
       </provider>
