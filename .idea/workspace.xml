@@ -28,21 +28,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="190">
+              <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
               <caret line="5" column="82" lean-forward="false" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="better-highlight.directive.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/better-highlight/better-highlight.directive.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="59" lean-forward="false" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -96,8 +106,9 @@
         <option value="$PROJECT_DIR$/assignment-odd/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/assignment-odd/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/assignment-odd/src/app/basic-highlight/basic-highlight.directive.ts" />
-        <option value="$PROJECT_DIR$/assignment-odd/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/assignment-odd/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/assignment-odd/src/app/better-highlight/better-highlight.directive.ts" />
+        <option value="$PROJECT_DIR$/assignment-odd/src/app/app.component.html" />
       </list>
     </option>
   </component>
@@ -168,6 +179,14 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="basic-highlight" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ng-assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ng-assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment-odd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="better-highlight" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -216,12 +235,12 @@
       <workItem from="1520420062746" duration="7368000" />
       <workItem from="1520430785566" duration="3000" />
       <workItem from="1520430942693" duration="6000" />
-      <workItem from="1520510651202" duration="2022000" />
+      <workItem from="1520510651202" duration="2543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14471000" />
+    <option name="totallyTimeSpent" value="14992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="944" extended-state="6" />
@@ -265,14 +284,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assignment4/src/app/game-control/game-control.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment4/src/app/game-control/game-control.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -590,10 +601,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/better-highlight/better-highlight.directive.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="242">
+          <caret line="11" column="59" lean-forward="false" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
           <folding />
         </state>
       </provider>
@@ -602,6 +613,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="82" lean-forward="false" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment-odd/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
           <folding />
         </state>
       </provider>
