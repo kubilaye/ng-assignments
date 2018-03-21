@@ -23,7 +23,7 @@ export class AppComponent implements OnInit {
   }
 
   onFormSubmit() {
-    console.log(this.signupForm.value);
+    console.log(this.signupForm);
   }
 
   onAddHobby() {
