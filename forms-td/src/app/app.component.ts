@@ -7,6 +7,7 @@ import {NgForm} from '@angular/forms';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  @ViewChild('myForm') signupForm: NgForm;
   defaultQuestion = 'teacher';
   answer = '';
   genders = ['Male', 'Female'];
@@ -14,6 +15,24 @@ export class AppComponent {
 
   suggestUserName() {
     const suggestedName = 'Superuser';
+    /*
+    // approach 1
+    this.signupForm.setValue({ // sets whole form
+      userData: {
+        username: suggestedName,
+        email: '',
+      },
+      secret: 'pet',
+      questionAnswer: '',
+      gender: 'Male',
+    });
+     */
+    // alternative approach
+    this.signupForm.form.patchValue({ // patches a single value
+      userData: {
+        username: suggestedName,
+      }
+    });
   }
 
   submitForm(form: NgForm) {
