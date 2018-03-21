@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ec6101-a5b7-4734-aa68-afcac65367d6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/forms-td/src/app/app.component.html" afterPath="$PROJECT_DIR$/forms-td/src/app/app.component.html" />
-      <change beforePath="$PROJECT_DIR$/forms-td/src/app/app.component.ts" afterPath="$PROJECT_DIR$/forms-td/src/app/app.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +19,8 @@
       <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/forms-td/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+            <state relative-caret-position="352">
+              <caret line="16" column="57" lean-forward="false" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -224,12 +222,12 @@
       <workItem from="1521532050063" duration="62000" />
       <workItem from="1521546305317" duration="6057000" />
       <workItem from="1521556733966" duration="246000" />
-      <workItem from="1521611527680" duration="1818000" />
+      <workItem from="1521611527680" duration="2039000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32702000" />
+    <option name="totallyTimeSpent" value="32923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="943" extended-state="0" />
@@ -543,6 +541,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -636,8 +635,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forms-td/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        <state relative-caret-position="352">
+          <caret line="16" column="57" lean-forward="false" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
           <folding />
         </state>
       </provider>
