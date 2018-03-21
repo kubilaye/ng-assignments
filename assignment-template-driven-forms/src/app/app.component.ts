@@ -16,7 +16,7 @@ export class AppComponent {
     email: '',
     subType: 'Advanced',
     password: '',
-  }
+  };
 
   submitted(form: NgForm) {
     this.sub.email = form.value.infoGroup.email;
