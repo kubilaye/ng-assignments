@@ -31,7 +31,7 @@
         <div class="form-group">
           <div class="radio" *ngFor="let gender of genders">
             <label>
-              <input type="radio" name="gender" ngModel [value]="gender" required> {{ gender }}
+              <input type="radio" name="gender" [(ngModel)]="defaultGender" [value]="gender" required> {{ gender }}
             </label>
           </div>
         </div>
