@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="26ec6101-a5b7-4734-aa68-afcac65367d6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/forms-reactive/src/app/app.component.ts" afterPath="$PROJECT_DIR$/forms-reactive/src/app/app.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,20 +20,30 @@
         <entry file="file://$PROJECT_DIR$/forms-reactive/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="335">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forms-reactive/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="48" column="28" lean-forward="false" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+            <state relative-caret-position="408">
+              <caret line="49" column="3" lean-forward="false" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".angular-cli.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment-reactive-forms/.angular-cli.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="21" column="63" lean-forward="false" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assignment4/src/app/odd/odd.component.ts" />
         <option value="$PROJECT_DIR$/assignment4/src/app/odd/odd.component.css" />
         <option value="$PROJECT_DIR$/assignment4/src/app/odd/odd.component.html" />
         <option value="$PROJECT_DIR$/assignment4/src/app/even/even.component.html" />
@@ -104,6 +112,7 @@
         <option value="$PROJECT_DIR$/forms-reactive/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/forms-reactive/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/forms-reactive/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/assignment-reactive-forms/.angular-cli.json" />
       </list>
     </option>
   </component>
@@ -115,6 +124,7 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/assignment-odd/node_modules" />
+    <handled-path value="$PROJECT_DIR$/assignment-reactive-forms/node_modules" />
     <handled-path value="$PROJECT_DIR$/assignment-template-driven-forms/node_modules" />
     <handled-path value="$PROJECT_DIR$/assignment1/node_modules" />
     <handled-path value="$PROJECT_DIR$/assignment2/node_modules" />
@@ -157,20 +167,7 @@
             <path>
               <item name="ng-assignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="ng-assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="forms-reactive" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ng-assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ng-assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="forms-reactive" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ng-assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ng-assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="forms-reactive" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment-reactive-forms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,12 +224,12 @@
       <workItem from="1521532050063" duration="62000" />
       <workItem from="1521546305317" duration="6057000" />
       <workItem from="1521556733966" duration="246000" />
-      <workItem from="1521611527680" duration="16145000" />
+      <workItem from="1521611527680" duration="17002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47029000" />
+    <option name="totallyTimeSpent" value="47886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="943" extended-state="0" />
@@ -276,13 +273,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assignment5/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment3/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -647,18 +637,26 @@
     <entry file="file://$PROJECT_DIR$/forms-reactive/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/forms-reactive/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="48" column="28" lean-forward="false" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+        <state relative-caret-position="408">
+          <caret line="49" column="3" lean-forward="false" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment-reactive-forms/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="21" column="63" lean-forward="false" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
