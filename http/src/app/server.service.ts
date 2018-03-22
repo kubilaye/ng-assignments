@@ -43,4 +43,14 @@ export class ServerService {
     );
   }
 
+  getAppName() {
+    return this.http.get(
+      'https://angular-playground-1.firebaseio.com/data.json'
+    ).map(
+      (response: Response) => {
+        return response.json().appName;
+      }
+    );
+  }
+
 }

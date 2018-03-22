@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="26ec6101-a5b7-4734-aa68-afcac65367d6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/http/src/app/app.component.html" afterPath="$PROJECT_DIR$/http/src/app/app.component.html" />
+      <change beforePath="$PROJECT_DIR$/http/src/app/app.component.ts" afterPath="$PROJECT_DIR$/http/src/app/app.component.ts" />
       <change beforePath="$PROJECT_DIR$/http/src/app/server.service.ts" afterPath="$PROJECT_DIR$/http/src/app/server.service.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,8 +25,8 @@
       <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/http/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+            <state relative-caret-position="66">
+              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -33,8 +35,8 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/http/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+            <state relative-caret-position="268">
+              <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
@@ -45,8 +47,8 @@
       <file leaf-file-name="server.service.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/http/src/app/server.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+            <state relative-caret-position="387">
+              <caret line="50" column="37" lean-forward="false" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -248,12 +250,12 @@
       <workItem from="1521546305317" duration="6057000" />
       <workItem from="1521556733966" duration="246000" />
       <workItem from="1521611527680" duration="21867000" />
-      <workItem from="1521695901642" duration="8639000" />
+      <workItem from="1521695901642" duration="8927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61390000" />
+    <option name="totallyTimeSpent" value="61678000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -694,16 +696,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/http/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        <state relative-caret-position="66">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/http/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+        <state relative-caret-position="268">
+          <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
           </folding>
@@ -712,8 +714,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/http/src/app/server.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+        <state relative-caret-position="387">
+          <caret line="50" column="37" lean-forward="false" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
