@@ -17,4 +17,10 @@ export class ServerService {
     );
   }
 
+  getServers() {
+    return this.http.get(
+      'https://angular-playground-1.firebaseio.com/data.json'
+    );
+  }
+
 }
