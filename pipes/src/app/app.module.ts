@@ -5,6 +5,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import {ShortenPipe} from './shorten.pipe';
 import { FilterPipe } from './filter.pipe';
+import {FormsModule} from '@angular/forms';
 
 
 @NgModule({
@@ -14,7 +15,8 @@ import { FilterPipe } from './filter.pipe';
     FilterPipe,
   ],
   imports: [
-    BrowserModule
+    FormsModule,
+    BrowserModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
