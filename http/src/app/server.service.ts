@@ -1,5 +1,6 @@
 import {Injectable} from '@angular/core';
 import {Headers, Http} from '@angular/http';
+import 'rxjs/Rx';
 
 @Injectable()
 export class ServerService {
@@ -10,7 +11,8 @@ export class ServerService {
     const headers = new Headers({
       'Content-Type': 'application/json',
     });
-    return this.http.post(
+    // return this.http.post(
+    return this.http.put( // override the existing data
       'https://angular-playground-1.firebaseio.com/data.json',
       servers,
       {headers: headers}
@@ -20,6 +22,11 @@ export class ServerService {
   getServers() {
     return this.http.get(
       'https://angular-playground-1.firebaseio.com/data.json'
+    ).map(
+      (response: Response) => {
+        const data = response.json();
+        return data;
+      }
     );
   }
 
