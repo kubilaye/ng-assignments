@@ -4,7 +4,6 @@
     <list default="true" id="26ec6101-a5b7-4734-aa68-afcac65367d6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/pipes/src/app/app.component.html" afterPath="$PROJECT_DIR$/pipes/src/app/app.component.html" />
       <change beforePath="$PROJECT_DIR$/pipes/src/app/app.component.ts" afterPath="$PROJECT_DIR$/pipes/src/app/app.component.ts" />
-      <change beforePath="$PROJECT_DIR$/pipes/src/app/app.module.ts" afterPath="$PROJECT_DIR$/pipes/src/app/app.module.ts" />
       <change beforePath="$PROJECT_DIR$/pipes/src/app/filter.pipe.ts" afterPath="$PROJECT_DIR$/pipes/src/app/filter.pipe.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pipes/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="72" lean-forward="false" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+            <state relative-caret-position="110">
+              <caret line="5" column="72" lean-forward="false" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -32,18 +31,18 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pipes/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="38" column="2" lean-forward="false" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+            <state relative-caret-position="368">
+              <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="filter.pipe.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="filter.pipe.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pipes/src/app/filter.pipe.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+            <state relative-caret-position="88">
+              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -111,10 +110,10 @@
         <option value="$PROJECT_DIR$/pipes/.angular-cli.json" />
         <option value="$PROJECT_DIR$/pipes/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/pipes/src/app/shorten.pipe.ts" />
-        <option value="$PROJECT_DIR$/pipes/src/app/filter.pipe.ts" />
+        <option value="$PROJECT_DIR$/pipes/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/pipes/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/pipes/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/pipes/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/pipes/src/app/filter.pipe.ts" />
       </list>
     </option>
   </component>
@@ -282,12 +281,12 @@
       <workItem from="1521546305317" duration="6057000" />
       <workItem from="1521556733966" duration="246000" />
       <workItem from="1521611527680" duration="21867000" />
-      <workItem from="1521695901642" duration="2527000" />
+      <workItem from="1521695901642" duration="3013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55278000" />
+    <option name="totallyTimeSpent" value="55764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="943" extended-state="0" />
@@ -680,24 +679,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#55#0" expanded="true" />
+            <element signature="e#0#55#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipes/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="38" column="2" lean-forward="false" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipes/src/app/filter.pipe.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,10 +694,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pipes/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pipes/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="72" lean-forward="false" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+        <state relative-caret-position="110">
+          <caret line="5" column="72" lean-forward="false" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pipes/src/app/filter.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding />
         </state>
       </provider>
