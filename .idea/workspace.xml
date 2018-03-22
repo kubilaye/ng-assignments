@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ec6101-a5b7-4734-aa68-afcac65367d6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/http/src/app/server.service.ts" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/http/src/app/app.component.html" afterPath="$PROJECT_DIR$/http/src/app/app.component.html" />
-      <change beforePath="$PROJECT_DIR$/http/src/app/app.component.ts" afterPath="$PROJECT_DIR$/http/src/app/app.component.ts" />
-      <change beforePath="$PROJECT_DIR$/http/src/app/app.module.ts" afterPath="$PROJECT_DIR$/http/src/app/app.module.ts" />
+      <change beforePath="$PROJECT_DIR$/http/src/app/server.service.ts" afterPath="$PROJECT_DIR$/http/src/app/server.service.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,8 +32,8 @@
       <file leaf-file-name="server.service.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/http/src/app/server.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+            <state relative-caret-position="330">
+              <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -263,12 +259,12 @@
       <workItem from="1521546305317" duration="6057000" />
       <workItem from="1521556733966" duration="246000" />
       <workItem from="1521611527680" duration="21867000" />
-      <workItem from="1521695901642" duration="6631000" />
+      <workItem from="1521695901642" duration="6782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59382000" />
+    <option name="totallyTimeSpent" value="59533000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -727,8 +723,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/http/src/app/server.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        <state relative-caret-position="330">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
